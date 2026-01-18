@@ -1,1 +1,0 @@
-es una 🚤 Cross-platform de warp. te bajas el exe de release , lo ejecutas y wgcf register y luego generate pasa los ficheros por ejemplo si android tv . Luego wireguard con la app instalada importas el fichero , vale para pc o cualquier cosa
